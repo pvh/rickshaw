@@ -1,0 +1,12 @@
+theme = "hugo-zen"
+baseurl = "http://rickshaw.pvh.ca/"
+languageCode = "en-us"
+title = "rickshaw run 2013"
+author = "pvh"
+copyright = "Peter van Hardenberg"
+
+[params]
+  logo      = "/images/logo.jpg"
+  twitter   = "https://twitter.com/pvh"
+  email     = "pvh@pvh.ca"
+

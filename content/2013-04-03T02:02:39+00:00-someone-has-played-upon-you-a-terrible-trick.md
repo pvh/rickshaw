@@ -1,0 +1,19 @@
+{
+  "id": 46995034611,
+  "slug": "someone-has-played-upon-you-a-terrible-trick",
+  "type": "quote",
+  "date": "2013-04-03T02:02:39+00:00",
+  "timestamp": 1364954559,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "text": "Someone has played upon you a terrible trick!",
+  "source": "Aaron&rsquo;s seat-mate when our quest was explained to him",
+  "title": "someone-has-played-upon-you-a-terrible-trick"
+}
+

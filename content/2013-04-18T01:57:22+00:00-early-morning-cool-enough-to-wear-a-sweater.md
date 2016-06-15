@@ -1,0 +1,19 @@
+{
+  "id": 48246448480,
+  "slug": "early-morning-cool-enough-to-wear-a-sweater",
+  "type": "text",
+  "date": "2013-04-18T01:57:22+00:00",
+  "timestamp": 1366250242,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "title": "early-morning-cool-enough-to-wear-a-sweater",
+  "body": "<p>Early morning. Cool enough to wear a sweater. Disagreement last night over what time to start and a rough road. A child of eight or so walks beside us on the road carrying a bundle of leaves, barefoot.</p>"
+}
+
+<p>Early morning. Cool enough to wear a sweater. Disagreement last night over what time to start and a rough road. A child of eight or so walks beside us on the road carrying a bundle of leaves, barefoot.</p>

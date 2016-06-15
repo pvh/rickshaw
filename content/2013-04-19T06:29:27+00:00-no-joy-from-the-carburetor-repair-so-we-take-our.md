@@ -1,0 +1,19 @@
+{
+  "id": 48342012507,
+  "slug": "no-joy-from-the-carburetor-repair-so-we-take-our",
+  "type": "text",
+  "date": "2013-04-19T06:29:27+00:00",
+  "timestamp": 1366352967,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "title": "no-joy-from-the-carburetor-repair-so-we-take-our",
+  "body": "<p>No joy from the carburetor repair, so we take our leave of the ladies and gents and head on our way after leaving them a bouquet of duct tape and zap straps as a condolence.</p>"
+}
+
+<p>No joy from the carburetor repair, so we take our leave of the ladies and gents and head on our way after leaving them a bouquet of duct tape and zap straps as a condolence.</p>

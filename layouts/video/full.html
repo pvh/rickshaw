@@ -1,0 +1,18 @@
+		<article itemscope itemtype="http://schema.org/Blog">
+    VIDEO
+      <figure>
+      {{ with .Params.video_url }}
+        <video controls="true" height="600">
+          <source src="{{ . }}" type="video/mp4"/>
+        </video>
+      {{ end }}
+      {{ with .Params.caption }}
+        <figcaption>
+        {{ . | safeHTML }}
+        </figcaption>
+      {{ end }}
+      </figure>
+			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Content }}</a></h2>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
+		</article>
+

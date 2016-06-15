@@ -1,0 +1,19 @@
+{
+  "id": 48276379069,
+  "slug": "haggled-our-room-down-on-purpose-this-time-in",
+  "type": "text",
+  "date": "2013-04-18T13:40:34+00:00",
+  "timestamp": 1366292434,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "title": "haggled-our-room-down-on-purpose-this-time-in",
+  "body": "<p>Haggled our room down on purpose this time in Alipurdaur. Muffler fixed in 45m and got that down by half too. Slowly getting the hang of India.</p>"
+}
+
+<p>Haggled our room down on purpose this time in Alipurdaur. Muffler fixed in 45m and got that down by half too. Slowly getting the hang of India.</p>

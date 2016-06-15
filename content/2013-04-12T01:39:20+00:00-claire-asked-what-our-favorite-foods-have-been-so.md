@@ -1,0 +1,25 @@
+{
+  "id": 47747729826,
+  "slug": "claire-asked-what-our-favorite-foods-have-been-so",
+  "type": "text",
+  "date": "2013-04-12T01:39:20+00:00",
+  "timestamp": 1365730760,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 1,
+  "title": "claire-asked-what-our-favorite-foods-have-been-so",
+  "body": "<p>Claire asked what our favorite foods have been so far. It&rsquo;s hard to pick winners, but Indian breakfasts are much more savory than Western ones and don&rsquo;t feature eggs. The idli (rice in UFO shapes) have been delicious dipped in sambar, but my favorite has to be the dosa we&rsquo;ve been eating everywhere we go. </p>\n\n<p>We&rsquo;ve avoided meat for the most part, but I had a very nice prawn with mint curry in Pondicherry and a great mutton kati roll in Cochin that stand out. </p>\n\n<p>So far, no &ldquo;travelers disease&rdquo; despite eating all kinds of things everywhere. Haven&rsquo;t had dessert, really. By the time I finish my thali I&rsquo;m usually stuffed. Unlikely to come home skinnier than I left.</p>\n\n<p>No discussion of food would be fair without mentioning the chai everywhere served in little cups!</p>"
+}
+
+<p>Claire asked what our favorite foods have been so far. It&rsquo;s hard to pick winners, but Indian breakfasts are much more savory than Western ones and don&rsquo;t feature eggs. The idli (rice in UFO shapes) have been delicious dipped in sambar, but my favorite has to be the dosa we&rsquo;ve been eating everywhere we go. </p>
+
+<p>We&rsquo;ve avoided meat for the most part, but I had a very nice prawn with mint curry in Pondicherry and a great mutton kati roll in Cochin that stand out. </p>
+
+<p>So far, no &ldquo;travelers disease&rdquo; despite eating all kinds of things everywhere. Haven&rsquo;t had dessert, really. By the time I finish my thali I&rsquo;m usually stuffed. Unlikely to come home skinnier than I left.</p>
+
+<p>No discussion of food would be fair without mentioning the chai everywhere served in little cups!</p>

@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+	<main role="main">
+{{ range .Data.Pages.Reverse }}
+  {{ .Render "full" }}
+{{ end }}
+	</main>
+
+{{ partial "footer.html" . }}

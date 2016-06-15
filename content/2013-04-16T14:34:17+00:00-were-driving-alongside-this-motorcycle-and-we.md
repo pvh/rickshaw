@@ -1,0 +1,19 @@
+{
+  "id": 48121533428,
+  "slug": "were-driving-alongside-this-motorcycle-and-we",
+  "type": "quote",
+  "date": "2013-04-16T14:34:17+00:00",
+  "timestamp": 1366122857,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "text": "We&rsquo;re driving alongside this motorcycle and we realize he&rsquo;s pulled out his [censored] and he&rsquo;s having a go!",
+  "source": "Anonymous female runner",
+  "title": "were-driving-alongside-this-motorcycle-and-we"
+}
+

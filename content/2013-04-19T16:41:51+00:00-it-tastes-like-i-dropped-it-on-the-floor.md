@@ -1,0 +1,19 @@
+{
+  "id": 48366518123,
+  "slug": "it-tastes-like-i-dropped-it-on-the-floor",
+  "type": "quote",
+  "date": "2013-04-19T16:41:51+00:00",
+  "timestamp": 1366389711,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "text": "It tastes like I dropped it on the floor.",
+  "source": "",
+  "title": "it-tastes-like-i-dropped-it-on-the-floor"
+}
+

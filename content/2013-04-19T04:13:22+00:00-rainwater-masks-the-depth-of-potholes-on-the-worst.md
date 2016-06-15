@@ -1,0 +1,19 @@
+{
+  "id": 48335796277,
+  "slug": "rainwater-masks-the-depth-of-potholes-on-the-worst",
+  "type": "text",
+  "date": "2013-04-19T04:13:22+00:00",
+  "timestamp": 1366344802,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "title": "rainwater-masks-the-depth-of-potholes-on-the-worst",
+  "body": "<p>Rainwater masks the depth of potholes on the worst stretch of road we&rsquo;ve seen in 4000km of driving.</p>"
+}
+
+<p>Rainwater masks the depth of potholes on the worst stretch of road we&rsquo;ve seen in 4000km of driving.</p>

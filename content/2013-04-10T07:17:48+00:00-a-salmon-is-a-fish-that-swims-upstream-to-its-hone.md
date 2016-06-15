@@ -1,0 +1,19 @@
+{
+  "id": 47606749942,
+  "slug": "a-salmon-is-a-fish-that-swims-upstream-to-its-hone",
+  "type": "text",
+  "date": "2013-04-10T07:17:48+00:00",
+  "timestamp": 1365578268,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "title": "a-salmon-is-a-fish-that-swims-upstream-to-its-hone",
+  "body": "<p>A salmon is a fish that swims upstream to its hone waters. So too do the &ldquo;salmon&rdquo; of Indian highways, which see fit to occupy any lane they please while driving against the flow of traffic. While most salmon are simply two-wheelers on the shoulder we have seen rickshaws, cars, and even a huge truck in the innermost incoming lane.</p>"
+}
+
+<p>A salmon is a fish that swims upstream to its hone waters. So too do the &ldquo;salmon&rdquo; of Indian highways, which see fit to occupy any lane they please while driving against the flow of traffic. While most salmon are simply two-wheelers on the shoulder we have seen rickshaws, cars, and even a huge truck in the innermost incoming lane.</p>

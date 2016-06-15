@@ -1,0 +1,19 @@
+{
+  "id": 47669665589,
+  "slug": "just-heard-our-mongolian-friends-are-still-in",
+  "type": "text",
+  "date": "2013-04-11T02:09:14+00:00",
+  "timestamp": 1365646154,
+  "format": "html",
+  "tags": [
+
+  ],
+  "highlighted": [
+
+  ],
+  "note_count": 0,
+  "title": "just-heard-our-mongolian-friends-are-still-in",
+  "body": "<p>Just heard our Mongolian friends are still in Cochin due to mechanical problems. Shame. Hope they manage to ship themselves ahead and catch up.</p>"
+}
+
+<p>Just heard our Mongolian friends are still in Cochin due to mechanical problems. Shame. Hope they manage to ship themselves ahead and catch up.</p>
